@@ -13,6 +13,6 @@ npm install --save-dev gulp-imagemin imagemin-pngquant gulp-notify rimraf gulp-c
 
 -------------------------------
 https://github.com/johnpapa/angular-styleguide/blob/master/i18n/ru-RU.md#file-templates-and-snippets
-ng-c // создает контроллер Angular
-ng-f // создает фабрику Angular
-ng-m // создает модуль Angular
+ng-c // СЃРѕР·РґР°РµС‚ РєРѕРЅС‚СЂРѕР»Р»РµСЂ Angular
+ng-f // СЃРѕР·РґР°РµС‚ С„Р°Р±СЂРёРєСѓ Angular
+ng-m // СЃРѕР·РґР°РµС‚ РјРѕРґСѓР»СЊ Angular
