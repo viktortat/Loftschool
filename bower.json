@@ -1,0 +1,29 @@
+{
+  "name": "testAngular",
+  "version": "0.0.0",
+  "authors": [
+    "viktorGit <viktortat@gmail.com>"
+  ],
+  "description": "уроки по Angluarjs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4",
+    "angular-route": "~1.4.4",
+    "angular-resource": "~1.4.4",
+    "angular-sanitize": "~1.4.4",
+    "angular-animate": "~1.4.4",
+    "angular-cookies": "~1.4.4",
+    "angular-touch": "~1.4.4",
+    "angular-loader": "~1.4.4",
+    "angular-i18n": "~1.4.4",
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
