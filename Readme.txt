@@ -15,4 +15,8 @@ npm install --save-dev gulp-imagemin imagemin-pngquant gulp-notify rimraf gulp-c
 https://github.com/johnpapa/angular-styleguide/blob/master/i18n/ru-RU.md#file-templates-and-snippets
 ng-c // создает контроллер Angular
 ng-f // создает фабрику Angular
-ng-m // создает модуль Angular
+ng-m // создает модуль Angula
+
+Решение ошибки "CRLF would be replaced by LF in ..."
+git config --global --unset core.autocrlf
+git config core.autocrlf false
